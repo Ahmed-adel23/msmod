@@ -1,0 +1,11 @@
+pip
+Flask
+Keras
+keras-nightly
+Keras-Preprocessing
+numpy
+tensorflow
+opencv-python-headless
+Pillow
+flask_restful
+pandas
